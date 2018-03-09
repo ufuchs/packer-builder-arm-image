@@ -1,2 +1,9 @@
+# dependencies
+vendor
+
+# plugin binary
+packer-builder-arm-image
+
+# build artefacts
 .vagrant/
 *.img
